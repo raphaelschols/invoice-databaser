@@ -1,0 +1,78 @@
+invoice_number,invoice_date,due_date,client_name,payment_terms,client_address,description,unit_price,quantity
+INV-20250105-001,2024-12-19,2025-01-18,Alice Johnson,Payment Terms: Net 30,"101 Maple Street(cid:10)Townsville, TS 12345, Country",SEO Optimization,200.0,4
+INV-20250105-001,2024-12-19,2025-01-18,Alice Johnson,Payment Terms: Net 30,"101 Maple Street(cid:10)Townsville, TS 12345, Country",SEO Optimization,15.0,7
+INV-20250105-001,2024-12-19,2025-01-18,Alice Johnson,Payment Terms: Net 30,"101 Maple Street(cid:10)Townsville, TS 12345, Country",Domain Registration,15.0,6
+INV-20250105-010,2024-12-27,2025-01-26,Julia Adams,Payment Terms: Net 30,"1010 Palm Avenue(cid:10)Beachside, BS 77889, Country",Software Development,250.0,4
+INV-20250105-010,2024-12-27,2025-01-26,Julia Adams,Payment Terms: Net 30,"1010 Palm Avenue(cid:10)Beachside, BS 77889, Country",Graphic Design,200.0,1
+INV-20250105-010,2024-12-27,2025-01-26,Julia Adams,Payment Terms: Net 30,"1010 Palm Avenue(cid:10)Beachside, BS 77889, Country",Data Analysis,400.0,4
+INV-20250105-010,2024-12-27,2025-01-26,Julia Adams,Payment Terms: Net 30,"1010 Palm Avenue(cid:10)Beachside, BS 77889, Country",Domain Registration,200.0,9
+INV-20250105-011,2024-12-24,2025-01-23,Kevin Stone,Payment Terms: Net 30,"1111 Oak Lane(cid:10)Greentown, GT 99887, Country",Graphic Design,15.0,4
+INV-20250105-011,2024-12-24,2025-01-23,Kevin Stone,Payment Terms: Net 30,"1111 Oak Lane(cid:10)Greentown, GT 99887, Country",Content Creation,1000.0,9
+INV-20250105-011,2024-12-24,2025-01-23,Kevin Stone,Payment Terms: Net 30,"1111 Oak Lane(cid:10)Greentown, GT 99887, Country",SEO Optimization,150.0,2
+INV-20250105-012,2024-12-20,2025-01-19,Laura Bell,Payment Terms: Net 30,"1212 Maple Way(cid:10)Mountainview, MV 55678, Country",IT Support,200.0,9
+INV-20250105-012,2024-12-20,2025-01-19,Laura Bell,Payment Terms: Net 30,"1212 Maple Way(cid:10)Mountainview, MV 55678, Country",IT Support,50.0,5
+INV-20250105-012,2024-12-20,2025-01-19,Laura Bell,Payment Terms: Net 30,"1212 Maple Way(cid:10)Mountainview, MV 55678, Country",Data Analysis,200.0,4
+INV-20250105-013,2024-12-27,2025-01-26,Michael Jordan,Payment Terms: Net 30,"1313 Birch Street(cid:10)Hooptown, HT 56789, Country",Consulting Services,200.0,6
+INV-20250105-013,2024-12-27,2025-01-26,Michael Jordan,Payment Terms: Net 30,"1313 Birch Street(cid:10)Hooptown, HT 56789, Country",Graphic Design,400.0,2
+INV-20250105-013,2024-12-27,2025-01-26,Michael Jordan,Payment Terms: Net 30,"1313 Birch Street(cid:10)Hooptown, HT 56789, Country",Social Media Management,300.0,3
+INV-20250105-014,2024-12-11,2025-01-10,Natalie Cook,Payment Terms: Net 30,"1414 Cedar Drive(cid:10)Valleyfield, VF 34567, Country",IT Support,150.0,1
+INV-20250105-014,2024-12-11,2025-01-10,Natalie Cook,Payment Terms: Net 30,"1414 Cedar Drive(cid:10)Valleyfield, VF 34567, Country",Consulting Services,150.0,3
+INV-20250105-015,2025-01-01,2025-01-31,Oliver Queen,Payment Terms: Net 30,"1515 Pine Road(cid:10)Star City, SC 98765, Country",Data Analysis,150.0,2
+INV-20250105-015,2025-01-01,2025-01-31,Oliver Queen,Payment Terms: Net 30,"1515 Pine Road(cid:10)Star City, SC 98765, Country",Consulting Services,15.0,2
+INV-20250105-015,2025-01-01,2025-01-31,Oliver Queen,Payment Terms: Net 30,"1515 Pine Road(cid:10)Star City, SC 98765, Country",Consulting Services,200.0,2
+INV-20250105-016,2024-12-13,2025-01-12,Paula White,Payment Terms: Net 30,"1616 Spruce Avenue(cid:10)Oceanview, OV 12345, Country",Content Creation,150.0,6
+INV-20250105-016,2024-12-13,2025-01-12,Paula White,Payment Terms: Net 30,"1616 Spruce Avenue(cid:10)Oceanview, OV 12345, Country",Graphic Design,200.0,2
+INV-20250105-016,2024-12-13,2025-01-12,Paula White,Payment Terms: Net 30,"1616 Spruce Avenue(cid:10)Oceanview, OV 12345, Country",SEO Optimization,600.0,4
+INV-20250105-016,2024-12-13,2025-01-12,Paula White,Payment Terms: Net 30,"1616 Spruce Avenue(cid:10)Oceanview, OV 12345, Country",Content Creation,600.0,7
+INV-20250105-017,2024-12-28,2025-01-27,Quinn Harper,Payment Terms: Net 30,"1717 Willow Boulevard(cid:10)Sunsettown, ST 54321, Country",Domain Registration,200.0,3
+INV-20250105-017,2024-12-28,2025-01-27,Quinn Harper,Payment Terms: Net 30,"1717 Willow Boulevard(cid:10)Sunsettown, ST 54321, Country",IT Support,600.0,3
+INV-20250105-017,2024-12-28,2025-01-27,Quinn Harper,Payment Terms: Net 30,"1717 Willow Boulevard(cid:10)Sunsettown, ST 54321, Country",Social Media Management,150.0,8
+INV-20250105-017,2024-12-28,2025-01-27,Quinn Harper,Payment Terms: Net 30,"1717 Willow Boulevard(cid:10)Sunsettown, ST 54321, Country",Domain Registration,200.0,2
+INV-20250105-017,2024-12-28,2025-01-27,Quinn Harper,Payment Terms: Net 30,"1717 Willow Boulevard(cid:10)Sunsettown, ST 54321, Country",Data Analysis,300.0,2
+INV-20250105-018,2024-12-06,2025-01-05,Rachel Green,Payment Terms: Net 30,"1818 Elm Street(cid:10)Downtown, DT 67890, Country",IT Support,600.0,9
+INV-20250105-018,2024-12-06,2025-01-05,Rachel Green,Payment Terms: Net 30,"1818 Elm Street(cid:10)Downtown, DT 67890, Country",Social Media Management,50.0,10
+INV-20250105-018,2024-12-06,2025-01-05,Rachel Green,Payment Terms: Net 30,"1818 Elm Street(cid:10)Downtown, DT 67890, Country",Monthly Hosting,180.0,6
+INV-20250105-018,2024-12-06,2025-01-05,Rachel Green,Payment Terms: Net 30,"1818 Elm Street(cid:10)Downtown, DT 67890, Country",IT Support,50.0,5
+INV-20250105-019,2024-12-28,2025-01-27,Steve Rogers,Payment Terms: Net 30,"1919 Aspen Way(cid:10)Shieldtown, SH 24680, Country",Graphic Design,300.0,7
+INV-20250105-019,2024-12-28,2025-01-27,Steve Rogers,Payment Terms: Net 30,"1919 Aspen Way(cid:10)Shieldtown, SH 24680, Country",Social Media Management,15.0,4
+INV-20250105-002,2024-12-27,2025-01-26,Bob Smith,Payment Terms: Net 30,"202 Oak Avenue(cid:10)Village, VL 54321, Country",SEO Optimization,50.0,7
+INV-20250105-002,2024-12-27,2025-01-26,Bob Smith,Payment Terms: Net 30,"202 Oak Avenue(cid:10)Village, VL 54321, Country",Domain Registration,50.0,3
+INV-20250105-002,2024-12-27,2025-01-26,Bob Smith,Payment Terms: Net 30,"202 Oak Avenue(cid:10)Village, VL 54321, Country",Software Development,15.0,2
+INV-20250105-002,2024-12-27,2025-01-26,Bob Smith,Payment Terms: Net 30,"202 Oak Avenue(cid:10)Village, VL 54321, Country",Software Development,15.0,7
+INV-20250105-020,2024-12-18,2025-01-17,Tina Turner,Payment Terms: Net 30,"2020 Palm Boulevard(cid:10)Rockcity, RC 13579, Country",Monthly Hosting,300.0,5
+INV-20250105-020,2024-12-18,2025-01-17,Tina Turner,Payment Terms: Net 30,"2020 Palm Boulevard(cid:10)Rockcity, RC 13579, Country",Content Creation,150.0,7
+INV-20250105-020,2024-12-18,2025-01-17,Tina Turner,Payment Terms: Net 30,"2020 Palm Boulevard(cid:10)Rockcity, RC 13579, Country",Content Creation,50.0,6
+INV-20250105-020,2024-12-18,2025-01-17,Tina Turner,Payment Terms: Net 30,"2020 Palm Boulevard(cid:10)Rockcity, RC 13579, Country",Social Media Management,50.0,2
+INV-20250105-020,2024-12-18,2025-01-17,Tina Turner,Payment Terms: Net 30,"2020 Palm Boulevard(cid:10)Rockcity, RC 13579, Country",Monthly Hosting,600.0,1
+INV-20250105-003,2024-12-13,2025-01-12,Charlie Brown,Payment Terms: Net 30,"303 Pine Road(cid:10)Cityburg, CB 67890, Country",Monthly Hosting,50.0,10
+INV-20250105-003,2024-12-13,2025-01-12,Charlie Brown,Payment Terms: Net 30,"303 Pine Road(cid:10)Cityburg, CB 67890, Country",Social Media Management,600.0,3
+INV-20250105-003,2024-12-13,2025-01-12,Charlie Brown,Payment Terms: Net 30,"303 Pine Road(cid:10)Cityburg, CB 67890, Country",Domain Registration,1000.0,10
+INV-20250105-003,2024-12-13,2025-01-12,Charlie Brown,Payment Terms: Net 30,"303 Pine Road(cid:10)Cityburg, CB 67890, Country",Consulting Services,50.0,2
+INV-20250105-003,2024-12-13,2025-01-12,Charlie Brown,Payment Terms: Net 30,"303 Pine Road(cid:10)Cityburg, CB 67890, Country",IT Support,180.0,3
+INV-20250105-004,2024-12-16,2025-01-15,Diana Prince,Payment Terms: Net 30,"404 Cedar Lane(cid:10)Metroville, MV 98765, Country",Software Development,1000.0,9
+INV-20250105-004,2024-12-16,2025-01-15,Diana Prince,Payment Terms: Net 30,"404 Cedar Lane(cid:10)Metroville, MV 98765, Country",Domain Registration,300.0,8
+INV-20250105-004,2024-12-16,2025-01-15,Diana Prince,Payment Terms: Net 30,"404 Cedar Lane(cid:10)Metroville, MV 98765, Country",SEO Optimization,150.0,4
+INV-20250105-004,2024-12-16,2025-01-15,Diana Prince,Payment Terms: Net 30,"404 Cedar Lane(cid:10)Metroville, MV 98765, Country",Domain Registration,200.0,1
+INV-20250105-005,2025-01-04,2025-02-03,Ethan Hunt,Payment Terms: Net 30,"505 Birch Boulevard(cid:10)Spyville, SV 24680, Country",Software Development,150.0,3
+INV-20250105-005,2025-01-04,2025-02-03,Ethan Hunt,Payment Terms: Net 30,"505 Birch Boulevard(cid:10)Spyville, SV 24680, Country",Content Creation,200.0,7
+INV-20250105-005,2025-01-04,2025-02-03,Ethan Hunt,Payment Terms: Net 30,"505 Birch Boulevard(cid:10)Spyville, SV 24680, Country",IT Support,15.0,8
+INV-20250105-005,2025-01-04,2025-02-03,Ethan Hunt,Payment Terms: Net 30,"505 Birch Boulevard(cid:10)Spyville, SV 24680, Country",Monthly Hosting,50.0,2
+INV-20250105-005,2025-01-04,2025-02-03,Ethan Hunt,Payment Terms: Net 30,"505 Birch Boulevard(cid:10)Spyville, SV 24680, Country",SEO Optimization,400.0,2
+INV-20250105-006,2024-12-28,2025-01-27,Fiona Clarke,Payment Terms: Net 30,"606 Spruce Drive(cid:10)Hilltown, HT 13579, Country",Content Creation,250.0,10
+INV-20250105-006,2024-12-28,2025-01-27,Fiona Clarke,Payment Terms: Net 30,"606 Spruce Drive(cid:10)Hilltown, HT 13579, Country",Domain Registration,300.0,4
+INV-20250105-006,2024-12-28,2025-01-27,Fiona Clarke,Payment Terms: Net 30,"606 Spruce Drive(cid:10)Hilltown, HT 13579, Country",Content Creation,200.0,7
+INV-20250105-006,2024-12-28,2025-01-27,Fiona Clarke,Payment Terms: Net 30,"606 Spruce Drive(cid:10)Hilltown, HT 13579, Country",Data Analysis,300.0,6
+INV-20250105-006,2024-12-28,2025-01-27,Fiona Clarke,Payment Terms: Net 30,"606 Spruce Drive(cid:10)Hilltown, HT 13579, Country",Content Creation,600.0,7
+INV-20250105-007,2024-12-14,2025-01-13,George King,Payment Terms: Net 30,"707 Willow Way(cid:10)Lakeside, LS 11223, Country",SEO Optimization,1000.0,2
+INV-20250105-007,2024-12-14,2025-01-13,George King,Payment Terms: Net 30,"707 Willow Way(cid:10)Lakeside, LS 11223, Country",Content Creation,300.0,5
+INV-20250105-007,2024-12-14,2025-01-13,George King,Payment Terms: Net 30,"707 Willow Way(cid:10)Lakeside, LS 11223, Country",Monthly Hosting,50.0,8
+INV-20250105-007,2024-12-14,2025-01-13,George King,Payment Terms: Net 30,"707 Willow Way(cid:10)Lakeside, LS 11223, Country",Data Analysis,1000.0,1
+INV-20250105-007,2024-12-14,2025-01-13,George King,Payment Terms: Net 30,"707 Willow Way(cid:10)Lakeside, LS 11223, Country",Consulting Services,400.0,7
+INV-20250105-008,2025-01-03,2025-02-02,Hannah Lee,Payment Terms: Net 30,"808 Elm Crescent(cid:10)Forestville, FV 33445, Country",SEO Optimization,180.0,3
+INV-20250105-008,2025-01-03,2025-02-02,Hannah Lee,Payment Terms: Net 30,"808 Elm Crescent(cid:10)Forestville, FV 33445, Country",Data Analysis,200.0,9
+INV-20250105-008,2025-01-03,2025-02-02,Hannah Lee,Payment Terms: Net 30,"808 Elm Crescent(cid:10)Forestville, FV 33445, Country",IT Support,150.0,1
+INV-20250105-008,2025-01-03,2025-02-02,Hannah Lee,Payment Terms: Net 30,"808 Elm Crescent(cid:10)Forestville, FV 33445, Country",Software Development,180.0,4
+INV-20250105-009,2024-12-12,2025-01-11,Ian Wright,Payment Terms: Net 30,"909 Aspen Circle(cid:10)Riverland, RL 55667, Country",Domain Registration,150.0,6
+INV-20250105-009,2024-12-12,2025-01-11,Ian Wright,Payment Terms: Net 30,"909 Aspen Circle(cid:10)Riverland, RL 55667, Country",Content Creation,1000.0,1
+INV-20250105-009,2024-12-12,2025-01-11,Ian Wright,Payment Terms: Net 30,"909 Aspen Circle(cid:10)Riverland, RL 55667, Country",IT Support,1000.0,5
+INV-20250105-009,2024-12-12,2025-01-11,Ian Wright,Payment Terms: Net 30,"909 Aspen Circle(cid:10)Riverland, RL 55667, Country",Software Development,1000.0,1
